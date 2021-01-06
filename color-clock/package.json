@@ -8,8 +8,10 @@
   },
   "author": "",
   "license": "ISC"
-}
-
-"scripts": {
+  
+  "scripts": {
   "test": "echo 'Hello World!'"
 }
+}
+
+
