@@ -9,3 +9,7 @@
   "author": "",
   "license": "ISC"
 }
+
+"scripts": {
+  "test": "echo 'Hello World!'"
+}
